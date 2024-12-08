@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-origem = r'C:\Users\pedro.reis\Documents\ordemfap\aguardando'
-destino = r'C:\Users\pedro.reis\Documents\ordemfap\atualizados'
+origem = r'\aguardando'
+destino = r'\atualizados'
 os.makedirs(destino, exist_ok=True)  
 
 
